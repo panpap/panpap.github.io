@@ -1,5 +1,27 @@
 <html>
 <head>
+  <script src="https://www.google.com/recaptcha/api.js?render=6Ld3hp4UAAAAACv92qLz-VchteGQy_BVPX5XuyhH"></script>
+
+
+    <script>
+        const steps = document.getElementById('recaptcha-steps');
+        grecaptcha.ready(function() {
+            document.querySelector('.step1').classList.remove('hidden');
+            grecaptcha.execute('6LdyC2cUAAAAACGuDKpXeDorzUDWXmdqeg-xy696', {action: 'examples/v3scores'}).then(function(token) {
+                document.querySelector('.token').innerHTML = 'fetch(\'/recaptcha-v3-verify.php?action=examples/v3scores&token=\'' + token;
+                document.querySelector('.step2').classList.remove('hidden');
+
+                fetch('/recaptcha-v3-verify.php?action=examples/v3scores&token='+token).then(function(response) {
+                    response.json().then(function(data) {
+                        document.querySelector('.response').innerHTML = JSON.stringify(data, null, 2);
+                        document.querySelector('.step3').classList.remove('hidden');
+                    });
+                });
+            });
+        });
+    </script>
+
+
 </head>
 <body>
 <h1>HELLO WORLD</h1>
