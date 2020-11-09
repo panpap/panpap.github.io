@@ -10,53 +10,43 @@ subtitle: Security Researcher
 
 ***2020***
 
- - [Design and Implementation of a Compressed Certificate Status Protocol](https://dl.acm.org/doi/10.1145/3392096)
-M Pachilakis, AA Chariton, P Papadopoulos, P Ilia, E Degkleri, EP Markatos
-ACM Transactions on Internet Technology (TOIT) 20 (4), 1-25
- - [Stop tracking me bro! differential tracking of user demographics on hyper-partisan websites](https://dl.acm.org/doi/abs/10.1145/3366423.3380221)
-P Agarwal, S Joglekar, P Papadopoulos, N Sastry, N Kourtellis
-Proceedings of The Web Conference 2020 (WWW'20), 1479-1490
+ - [Design and Implementation of a Compressed Certificate Status Protocol](papers/3392096.pdf)
+Michalis Pachilakis, Antonios Chariton, <u>Panagiotis Papadopoulos</u>, Panagiotis Ilia, Eirini Degkleri, Evangelos P. Markatos, In proceedings of ACM Transactions on Internet Technology (TOIT’20)
+ - [Stop tracking me bro! differential tracking of user demographics on hyper-partisan websites](papers/3366423.3380221.pdf)
+Pushkal Agarwal, Sagar Joglekar, <u>Panagiotis Papadopoulos</u>, Nishanth Sastry, Nicolas Kourtellis,
+In proceedings of the 29th International World Wide Web Conference (WWW’20), April 2020, Taiwan, Taipei.
  - [Filter List Generation for Underserved Regions]()
-A Sjösten, P Snyder, A Pastor, P Papadopoulos, B Livshits
-Proceedings of The Web Conference 2020 (WWW'20), 1682-1692
-
+Alexander Sjosten, Peter Snyder, Antonio Pastor, <u>Panagiotis Papadopoulos</u>, Benjamin Livshits, In proceedings of the 29th International World Wide Web Conference (WWW’20), April 2020, Taiwan, Taipei.
  - [Keeping out the Masses: Understanding the Popularity and Implications of Internet Paywalls](papers/3366423.3380217.pdf)
-P Papadopoulos, P Snyder, D Athanasakis, B Livshits
-Proceedings of The Web Conference 2020 (WWW'20).
+<u>Panagiotis Papadopoulos</u>, Peter Snyder, Dimitrios Athanasakis , Benjamin Livshits, In proceedings of the 29th International World Wide Web Conference (WWW’20), April 2020, Taiwan, Taipei.
 
 ***2019***
-
  - [No More Chasing Waterfalls: A Measurement Study of the Header Bidding Ad-Ecosystem](papers/waterfalls.pdf)
-M Pachilakis, P Papadopoulos, EP Markatos, N Kourtellis
-Proceedings of the Internet Measurement Conference (IMC'19), 280-293
+Michalis Pachilakis, <u>Panagiotis Papadopoulos</u>, Evangelos P. Markatos, Nicolas Kourtellis, 
+In proceedings of the 19th Internet Measurement Conference (IMC’19), October 2019, Amsterdam, The Netherlands.
  - [Truth in Web Mining: Measuring the Profitability and the Imposed Overheads of Cryptojacking](papers/panpapISC2019.pdf)
-P Papadopoulos, P Ilia, E Markatos,
-International Conference on Information Security (ISC'19), 277-296
+<u>Panagiotis Papadopoulos</u>, Panagiotis Ilia, Evangelos P. Markatos, In proceedings of the 22nd Information Security Conference (ISC’19), September 2019, New York, USA.
  - [Cookie synchronization: Everything you always wanted to know but were afraid to ask](papers/panpap_www19.pdf)
-P Papadopoulos, N Kourtellis, E Markatos
-The World Wide Web Conference (WWW'19), 1432-1442
+<u>Panagiotis Papadopoulos</u>, Nicolas Kourtellis, Evangelos P. Markatos,
+In proceedings of the 28th International World Wide Web Conference (WWW’19), April 2019, San Francisco, California, USA.
  - [Is Privacy possible without Anonymity?: The case for microblogging services](papers/eurosec2019-final28.pdf)
-P Papadopoulos, A Papadogiannakis, M Polychronakis, EP Markatos,
-Proceedings of the 12th European Workshop on Systems Security (EuroSec'19), 6
+<u>Panagiotis Papadopoulos</u>, Antonis Papadogiannakis, Michalis Polychronakis, Evangelos P. Markatos, Proceedings of the 12th European Workshop on Systems Security (EuroSec’19), March 2019, Dresden, Germany.
  - [Master of Web Puppets: Abusing Web Browsers for Persistent and Stealthy Computation](papers/ndss19-final70.pdf)
-Panagiotis Papadopoulos, Panagiotis Ilia, Michalis Polychronakis, Evangelos P Markatos, Sotiris Ioannidis, Giorgos Vasiliadis, Proceedings of Network and Distributed System Security Symposium (NDSS'19)
+<u>Panagiotis Papadopoulos</u>, Panagiotis Ilia, Michalis Polychronakis, Evangelos P Markatos, Sotiris Ioannidis, Giorgos Vasiliadis, In proceedings of the 26th Network and Distributed System Security Symposium (NDSS’19), February 2019, San Diego, California, USA.
+-- Media coverage: [ZDNet]()
  - [Incognitus: Privacy-Preserving User Interests in Online Social Networks]()
-A Kornilakis, P Papadopoulos, E Markatos,
-In Proceedings of the International Workshop on Information and Operational Technology Security Systems
+Alexandros Kornilakis, <u>Panagiotis Papadopoulos</u>, Evangelos P. Markatos,
+In Proceedings of the International Workshop on Information and Operational Technology Security Systems (IOSec'19) co-located with the International Symposium on Research in Attacks, Intrusions and Defenses (RAID).
 
 ***2018***
  - [Where's Wally?: How to Privately Discover your Friends on the Internet](papers/asiaCCS18_panpap.pdf)
-P Papadopoulos, AA Chariton, E Athanasopoulos, EP Markatos,
-Proceedings of the 2018 ACM Asia Conference onComputer and Communications Security (Asia CCS'18)
+<u>Panagiotis Papadopoulos</u>, Antonios A. Chariton, Elias Athanasopoulos, Evangelos P. Markatos, In proceedings of the 13th ACM Asia Conference on Computer and Communications Security (AsiaCCS’18), June 2018, Songdo, Incheon, South Korea.
  - [Exclusive: How the (synced) Cookie Monster breached my encrypted VPN session](papers/eurosec2018-exclusive.pdf)
-P Papadopoulos, N Kourtellis, EP Markatos
-Proceedings of the 11th European Workshop on Systems Security (EuroSec'18), 6
+<u>Panagiotis Papadopoulos</u>, Nicolas Kourtellis, Evangelos P. Markatos, In proceedings of the 11th European Workshop on Systems Security (EuroSec’18), April 2018, Porto, Portugal.
  - [Øpass: Zero-storage Password Management Based on Password Reminders](papers/eurosec2018-0pass.pdf)
-G Tzagarakis, P Papadopoulos, AA Chariton, E Athanasopoulos, EP Markatos
-Proceedings of the 11th European Workshop on Systems Security (EuroSec'18), 2
+Giannis Tzagarakis, <u>Panagiotis Papadopoulos</u>, Antonios A. Chariton, Elias Athanasopoulos, Evangelos P. Markatos, In proceedings of the 11th European Workshop on Systems Security (EuroSec’18), April 2018, Porto, Portugal.
  - [The cost of digital advertisement: Comparing user and advertiser views](papers/www18_papadopoulos.pdf)
-P Papadopoulos, N Kourtellis, EP Markatos
-Proceedings of the 27th International Conference on World Wide Web (WWW'18)
+<u>Panagiotis Papadopoulos</u>, Nicolas Kourtellis, Evangelos P. Markatos, In proceedings of the 27th International World Wide Web Conference (WWW’18), April 2018, Lyon, France.
 
 ***2017***
  - [If you are not paying for it, you are the product: How much do advertisers pay to reach you?](papers/imc17-final193.pdf)
@@ -94,7 +84,7 @@ Proceedings of the 29th Annual Computer Security Applications Conference (ACSAC'
  - [Securing Legacy Code with the TRACER Platform](papers/PCI_14.pdf)
 Kostantinos Stroggylos, Dimitris Mitropoulos, Zacharias Tzermias, Panagiotis Papadopoulos, Fotios Rafailidis, Diomidis Spinellis, Sotiris Ioannidis, Panagiotis Katsaros, Proceedings of the 18th Panhellenic Conference on Informatics (PCI'14), 1-6
  - [The Vulnerability Dataset of a Large Software Ecosystem](papers/badgers2014.pdf)
-Dimitris Mitropoulos, Georgios Gousios, Panagiotis Papadopoulos, Vassilios Karakoidas, Panagiotis Louridas, Diomidis Spinellis, 2014 Third International Workshop on Building Analysis Datasets and Gathering Experience Returns for Security (BADGERS'14)
+Dimitris Mitropoulos, Georgios Gousios, Panagiotis Papadopoulos, Vassilios Karakoidas, Panagiotis Louridas, Diomidis Spinellis, 2014 Third International Workshop on Building Analysis Datasets and Gathering Experience Returns for Security (BADGERS'14) co-located with the 18th International Symposium on Research in Attacks, Intrusions and Defenses (RAID).
  - [TRACER: A Platform for Securing Legacy Code](papers/978-3-319-08593-7_20.pdf)
 Kostantinos Stroggylos, Dimitris Mitropoulos, Zacharias Tzermias, Panagiotis Papadopoulos, Fotios Rafailidis, Diomidis Spinellis, Sotiris Ioannidis, Panagiotis Katsaros, In proceedings of the International Conference on Trust and Trustworthy Computing (Trust'14), 218-219
 
