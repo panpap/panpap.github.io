@@ -59,28 +59,8 @@ social-network-links:
   ORCID: "0000-0002-1928-6534"
   google-scholar: "citations?user=c0xCCh0AAAAJ"
 
-# --- General options --- #
-
-# Select which social network share links to show in posts
-share-links-active:
-  twitter: true
-  linkedin: true
-
-# How to display the link to your website in the footer
-# Remove this if you don't want a link in the footer
-#url-pretty: "MyWebsite.com"
-
-# Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
-
-# Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
-
-# Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
-
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "panpap, Panos, Panagiotis Papadopoulos, panpap@gmx.com, Panagiotis, Papadopoulos, panos_papadop@outlook.com"
 
 # --- Colours / background image --- #
 
