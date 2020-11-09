@@ -3,7 +3,7 @@ layout: page
 title: Panagiotis (Panos) Papadopoulos
 ---
 
-I am currently a Research Scientist at Telefonica Research. My research focuses on understanding the Web's threat landscape, sheding light in the digital ad ecosystem  and developing countermeasures and privacy-preserving techniques for better protecting users.
+I am currently a Research Scientist at [Telefonica Research](www.tid.es). My research focuses on understanding the Web's threat landscape, sheding light in the digital ad ecosystem  and developing countermeasures and privacy-preserving techniques for better protecting users.
 
 Before that, I was the Security Researcher of [Brave Software Inc](http://www.brave.com). and my role was to lead the security and fraud related research and development of the Brave Browser and Brave Ads.
 
