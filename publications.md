@@ -50,46 +50,40 @@ Giannis Tzagarakis, <u>Panagiotis Papadopoulos</u>, Antonios A. Chariton, Elias 
 
 ***2017***
  - [If you are not paying for it, you are the product: How much do advertisers pay to reach you?](papers/imc17-final193.pdf)
-P Papadopoulos, N Kourtellis, PR Rodriguez, N Laoutaris
-Proceedings of the 2017 Internet Measurement Conference (IMC'17), 142-156
+<u>Panagiotis Papadopoulos</u>, Nicolas Kourtellis, Pablo Rodriguez Rodriguez, Nikolaos Laoutaris, In proceedings of the 17th Internet Measurement Conference (IMC’17), 2017, London, UK.
  - [No Sugar but all the Taste! Memory Encryption without Architectural Support](papers/panpap-esorics17.pdf)
-P Papadopoulos, G Vasiliadis, G Christou, E Markatos, S Ioannidis
-In proceeedings of European Symposium on Research in Computer Security (ESORICS'17), 362-380
+<u>Panagiotis Papadopoulos</u>, Giorgos Christou, Giorgos Vasiliadis, Evangelos P. Markatos, Sotiris Ioannidis, In proceedings of the 22nd European Symposium on Research in Computer Security (ESORICS’17), 2017, Oslo, Norway.
  - [CCSP: A compressed certificate status protocol](papers/ccspinfocom17.pdf)
-AA Chariton, E Degkleri, P Papadopoulos, P Ilia, EP Markatos,
- In proceedings of IEEE Conference on Computer Communications, (INFOCOM'17), 1-9
+Antonios Chariton, Eirini Degkleri, <u>Panagiotis Papadopoulos</u>, Panagiotis Ilia, Evangelos P. Markatos, In proceedings of IEEE International Conference on Computer Communications (INFOCOM’17), Atlanta, Georgia, USA.
  - [The Long-Standing Privacy Debate: Mobile Websites Vs Mobile Apps](papers/p153-papadopoulos.pdf)
-Elias P Papadopoulos, Michalis Diamantaris, Panagiotis Papadopoulos, Thanasis Petsas, Sotiris Ioannidis, Evangelos P Markatos, In Proceedings of the 26th International Conference on World Wide Web (WWW'17), 153-162
+Elias P. Papadopoulos, Michalis Diamantaris, <u>Panagiotis Papadopoulos</u>, Thanasis Petsas, Sotiris Ioannidis, Evangelos P Markatos, In proceedings of the 26th International World Wide Web Conference (WWW’17), 2017, Perth, Australia. (<b>Best Paper Honorable Mention</b>)
  - [Provable Network Activity for Protecting Users Against False Accusation](papers/panpapWISTP2016.pdf)
-P Papadopoulos, E Athanasopoulos, E Kosta, G Siganos, AD Keromytis, EP Markatos
-IFIP International Conference on Information Security Theory and Practice (WISTP'16)
+<u>Panagiotis Papadopoulos</u>, Elias Athanasopoulos, Eleni Kosta, George Siganos, Angelos D. Keromytis and Evangelos P. Markatos, 
+In proceedings of the 10th International Conference on Information Security Theory and Practice (WISTP’16).
 
 ***2016***
  - [DCSP: Performant Certificate Revocation a DNS-based approach](papers/a1-chariton.pdf)
-AA Chariton, E Degkleri, P Papadopoulos, P Ilia, EP Markatos
-Proceedings of the 9th European Workshop on System Security (EuroSec'16), 1
- - [MAD: A Middleware Framework for Multi-Step Attack Detection](papers/07809529.pdf)
-P Papadopoulos, T Petsas, G Christou, G Vasiliadis
-2015 4th International Workshop on Building Analysis Datasets and Gathering Experience Returns for Security (BADGERS'16)
+Antonios Chariton, Eirini Degkleri, <u>Panagiotis Papadopoulos</u>, Panagiotis Ilia, Evangelos P. Markatos, In proceedings of the 9th European Workshop on System Security (EuroSec’16). April 2016, London, UK.
 
 ***2015***
- - [Acazoo: A distributed key-value store based on replicated lsm-trees](papers/srds14.pdf)
-P Garefalakis, P Papadopoulos, K Magoutis
-2014 IEEE 33rd International Symposium on Reliable Distributed Systems (SRDS'15), 211-220
+ - [MAD: A Middleware Framework for Multi-Step Attack Detection](papers/07809529.pdf)
+<u>Panagiotis Papadopoulos</u>, Giorgos Christou, Thanasis Petsas and Giorgos Vasiliadis,
+In proceedings of the 4th IEEE International Workshop on Building Analysis Datasets and Gathering Experience Returns for Security (BADGERS’15). November 2015, co-located with the 18th International Symposium on Research in Attacks, Intrusions and Defenses (RAID), Kyoto, Japan.
 
 ***2014***
- - [k-subscription: privacy-preserving microblogging browsing through obfuscation](papers/ACSAC13.pdf)
-P Papadopoulos, A Papadogiannakis, M Polychronakis, A Zarras, T Holz, EP Markatos
-Proceedings of the 29th Annual Computer Security Applications Conference (ACSAC'13), 49-58
+ - [Acazoo: A distributed key-value store based on replicated lsm-trees](papers/srds14.pdf)
+Panagiotis Garefalakis, <u>Panagiotis Papadopoulos</u>, Kostas Magoutis, In Proceedings of 33rd IEEE Symposium on Reliable Distributed Systems (SRDS’14). October 2014, Nara, Japan. (<b>Best Student Paper Award</b>)
  - [Securing Legacy Code with the TRACER Platform](papers/PCI_14.pdf)
-Kostantinos Stroggylos, Dimitris Mitropoulos, Zacharias Tzermias, Panagiotis Papadopoulos, Fotios Rafailidis, Diomidis Spinellis, Sotiris Ioannidis, Panagiotis Katsaros, Proceedings of the 18th Panhellenic Conference on Informatics (PCI'14), 1-6
+Kostantinos Stroggylos, Dimitris Mitropoulos, Zacharias Tzermias, <u>Panagiotis Papadopoulos</u>, Fotios Rafailidis, Diomidis Spinellis, Sotiris Ioannidis, Panagiotis Katsaros, Proceedings of the 18th Panhellenic Conference on Informatics (PCI'14), 1-6
  - [The Vulnerability Dataset of a Large Software Ecosystem](papers/badgers2014.pdf)
-Dimitris Mitropoulos, Georgios Gousios, Panagiotis Papadopoulos, Vassilios Karakoidas, Panagiotis Louridas, Diomidis Spinellis, 2014 Third International Workshop on Building Analysis Datasets and Gathering Experience Returns for Security (BADGERS'14) co-located with the 18th International Symposium on Research in Attacks, Intrusions and Defenses (RAID).
+Dimitris Mitropoulos, Georgios Gousios, <u>Panagiotis Papadopoulos</u>, Vassilios Karakoidas, Panagiotis Louridas, Diomidis Spinellis, 2014 Third International Workshop on Building Analysis Datasets and Gathering Experience Returns for Security (BADGERS'14) co-located with the 18th International Symposium on Research in Attacks, Intrusions and Defenses (RAID), Wroclaw, Poland.
  - [TRACER: A Platform for Securing Legacy Code](papers/978-3-319-08593-7_20.pdf)
-Kostantinos Stroggylos, Dimitris Mitropoulos, Zacharias Tzermias, Panagiotis Papadopoulos, Fotios Rafailidis, Diomidis Spinellis, Sotiris Ioannidis, Panagiotis Katsaros, In proceedings of the International Conference on Trust and Trustworthy Computing (Trust'14), 218-219
+Kostantinos Stroggylos, Dimitris Mitropoulos, Zacharias Tzermias, <u>Panagiotis Papadopoulos</u>, Fotios Rafailidis, Diomidis Spinellis, Sotiris Ioannidis, Panagiotis Katsaros, In proceedings of the International Conference on Trust and Trustworthy Computing (Trust'14), 218-219
 
 ***2013***
+ - [k-subscription: privacy-preserving microblogging browsing through obfuscation](papers/ACSAC13.pdf)
+<u>Panagiotis Papadopoulos</u>, Antonis Papadogiannakis, Michalis Polychronakis, Apostolis Zarras, Thorsten Holz, Evangelos P. Markatos
+In Proceedings of the 2013 Annual Computer Security Applications Conference (ACSAC’13). December 2013, New Orleans, Louisiana, USA.
  - [Strengthening consistency in the cassandra distributed key-value store](papers/DAIS13.pdf)
-P Garefalakis, P Papadopoulos, I Manousakis, K Magoutis
-IFIP International Conference on Distributed Applications and Interoperable Systems (DAIS'13), 2013
+Panagiotis Garefalakis, <u>Panagiotis Papadopoulos</u>, Ioannis Manousakis and Kostas Magoutis, 13th International IFIP Conference on Distributed Applications and Interoperable Systems (DAIS’13). June 2013, Florence, Italy.
 
