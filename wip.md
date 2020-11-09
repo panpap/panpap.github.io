@@ -4,7 +4,7 @@ title: Panos Papadopoulos
 subtitle: Security Researcher
 ---
 
-***Technical Reports and Work in Progress***
+**Technical Reports and Work in Progress**
 
 - [THEMIS: Decentralized and Trustless Ad Platform with Reporting Integrity](https://arxiv.org/abs/2007.05556), Goncalo Pestana, Inigo Querejeta-Azurmendi, <u>Panagiotis Papadopoulos</u> and Benjamin Livshits.
 - [ZKSENSE: a Privacy-Preserving Mechanism for Bot Detection in Mobile Devices](https://arxiv.org/abs/1911.07649), <u>Panagiotis Papadopoulos</u>, Inigo Querejeta Azurmendi, Jiexin Zhang, Matteo Varvello, Antonio Nappa, Benjamin Livshits.<br>

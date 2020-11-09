@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Panos Papadopoulos
+title: Panagiotis (Panos) Papadopoulos
 subtitle: Security Researcher
 ---
 
-***Blogposts***
+**Blogposts**
 
 - [THEMIS: Towards a Decentralized Ad Platform with Reporting Integrity Part 1](https://brave.com/themis/), Goncalo Pestana, Inigo Querejeta-Azurmendi, <u>Panagiotis Papadopoulos</u> and Benjamin Livshits, 2020 
 - [THEMIS: Towards a Decentralized Ad Platform with Reporting Integrity Part 2](hhttps://brave.com/themis-smart-contracts-and-sidechains/), Goncalo Pestana, In ̃igo Querejeta-Azurmendi, <u>Panagiotis Papadopoulos</u> and Benjamin Livshits, 2020 
