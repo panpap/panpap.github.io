@@ -4,8 +4,6 @@ title: Panos Papadopoulos
 subtitle: Security Researcher
 ---
 
-
-
 **Peer-reviewed Conference and Workshop papers**
 
 ***2020***
@@ -15,6 +13,7 @@ Michalis Pachilakis, Antonios Chariton, <u>Panagiotis Papadopoulos</u>, Panagiot
  - [Stop tracking me bro! differential tracking of user demographics on hyper-partisan websites](papers/3366423.3380221.pdf)
 Pushkal Agarwal, Sagar Joglekar, <u>Panagiotis Papadopoulos</u>, Nishanth Sastry, Nicolas Kourtellis,
 In proceedings of the 29th International World Wide Web Conference (WWW’20), April 2020, Taiwan, Taipei.
+<b>Media Coverage:</b> [Wired](https://www.wired.com/story/right-left-news-site-ad-tracking/)
  - [Filter List Generation for Underserved Regions]()
 Alexander Sjosten, Peter Snyder, Antonio Pastor, <u>Panagiotis Papadopoulos</u>, Benjamin Livshits, In proceedings of the 29th International World Wide Web Conference (WWW’20), April 2020, Taiwan, Taipei.
  - [Keeping out the Masses: Understanding the Popularity and Implications of Internet Paywalls](papers/3366423.3380217.pdf)
@@ -33,7 +32,7 @@ In proceedings of the 28th International World Wide Web Conference (WWW’19), A
 <u>Panagiotis Papadopoulos</u>, Antonis Papadogiannakis, Michalis Polychronakis, Evangelos P. Markatos, Proceedings of the 12th European Workshop on Systems Security (EuroSec’19), March 2019, Dresden, Germany.
  - [Master of Web Puppets: Abusing Web Browsers for Persistent and Stealthy Computation](papers/ndss19-final70.pdf)
 <u>Panagiotis Papadopoulos</u>, Panagiotis Ilia, Michalis Polychronakis, Evangelos P Markatos, Sotiris Ioannidis, Giorgos Vasiliadis, In proceedings of the 26th Network and Distributed System Security Symposium (NDSS’19), February 2019, San Diego, California, USA.<br>
-<b>Media coverage</b>: [ZDNet](https://www.zdnet.com/article/new-browser-attack-lets-hackers-run-bad-code-even-after-users-leave-a-web-page/) [DarkReading](https://www.darkreading.com/application-security/researchers-build-framework-for-browser-based-botnets/d/d-id/1333974) [Wired](https://www.wired.it/internet/web/2019/02/26/marionet-botnet-browser-attacco-web/)[HelpNetSecurity](https://www.helpnetsecurity.com/2019/02/27/modern-browser-apis-can-be-abused-for-hijacking-device-resources/)[SensorsTechForum](https://sensorstechforum.com/marionet-attack-browser-apis/)[HackerCombat](https://hackercombat.com/marionet-lets-bad-codes-run-even-after-user-leaves-web-page/)[TechTarget](https://searchsecurity.techtarget.com/news/252458522/MarioNet-attack-exploits-HTML5-to-create-botnets)[gHacks](https://www.ghacks.net/2019/02/26/marionet-attack-lets-hackers-control-your-browser-even-after-you-leave-the-attack-page/)
+<b>Media coverage</b>: [ZDNet](https://www.zdnet.com/article/new-browser-attack-lets-hackers-run-bad-code-even-after-users-leave-a-web-page/) [DarkReading](https://www.darkreading.com/application-security/researchers-build-framework-for-browser-based-botnets/d/d-id/1333974) [Wired](https://www.wired.it/internet/web/2019/02/26/marionet-botnet-browser-attacco-web/)[HelpNetSecurity](https://www.helpnetsecurity.com/2019/02/27/modern-browser-apis-can-be-abused-for-hijacking-device-resources/)[SensorsTechForum](https://sensorstechforum.com/marionet-attack-browser-apis/)[HackerCombat](https://hackercombat.com/marionet-lets-bad-codes-run-even-after-user-leaves-web-page/)[TechTarget](https://searchsecurity.techtarget.com/news/252458522/MarioNet-attack-exploits-HTML5-to-create-botnets)[gHacks](https://www.ghacks.net/2019/02/26/marionet-attack-lets-hackers-control-your-browser-even-after-you-leave-the-attack-page/)[SecurityWeek](https://www.securityweek.com/new-attack-runs-code-after-closing-browser-tab)
  - [Incognitus: Privacy-Preserving User Interests in Online Social Networks]()
 Alexandros Kornilakis, <u>Panagiotis Papadopoulos</u>, Evangelos P. Markatos,
 In Proceedings of the International Workshop on Information and Operational Technology Security Systems (IOSec'19) co-located with the International Symposium on Research in Attacks, Intrusions and Defenses (RAID).
