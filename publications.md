@@ -17,7 +17,10 @@ In proceedings of the 29th International World Wide Web Conference (WWW’20), A
  - [Filter List Generation for Underserved Regions](papers/3366423.3380239.pdf) <br>
 Alexander Sjosten, Peter Snyder, Antonio Pastor, <u>Panagiotis Papadopoulos</u>, Benjamin Livshits <br> In proceedings of the 29th International World Wide Web Conference (WWW’20), April 2020, Taiwan, Taipei.
  - [Keeping out the Masses: Understanding the Popularity and Implications of Internet Paywalls](papers/3366423.3380217.pdf) <br>
-<u>Panagiotis Papadopoulos</u>, Peter Snyder, Dimitrios Athanasakis , Benjamin Livshits <br> In proceedings of the 29th International World Wide Web Conference (WWW’20), April 2020, Taiwan, Taipei.
+<u>Panagiotis Papadopoulos</u>, Peter Snyder, Dimitrios Athanasakis, Benjamin Livshits <br> In proceedings of the 29th International World Wide Web Conference (WWW’20), April 2020, Taiwan, Taipei.
+- [Beyond Black and White: Combining the Benefits of Regular and Incognito Browsing Modes](papers/SECRYPT_2020_104_CR.pdf)<br>
+John Korniotakis, <u>Panagiotis Papadopoulos</u>, Evangelos P. Markatos<br> 
+In Proceedings of the1 7th International Conference on Security and Cryptography (SECRYPT 2020), Online, July 2020.
 
 ***2019***
  - [No More Chasing Waterfalls: A Measurement Study of the Header Bidding Ad-Ecosystem](papers/waterfalls.pdf)<br>
@@ -33,7 +36,7 @@ In proceedings of the 28th International World Wide Web Conference (WWW’19), A
  - [Master of Web Puppets: Abusing Web Browsers for Persistent and Stealthy Computation](papers/ndss19-final70.pdf)<br>
 <u>Panagiotis Papadopoulos</u>, Panagiotis Ilia, Michalis Polychronakis, Evangelos P Markatos, Sotiris Ioannidis, Giorgos Vasiliadis <br> In proceedings of the 26th Network and Distributed System Security Symposium (NDSS’19), February 2019, San Diego, California, USA.<br>
 <b>Media coverage</b>: [ZDNet](https://www.zdnet.com/article/new-browser-attack-lets-hackers-run-bad-code-even-after-users-leave-a-web-page/), [DarkReading](https://www.darkreading.com/application-security/researchers-build-framework-for-browser-based-botnets/d/d-id/1333974), [Wired](https://www.wired.it/internet/web/2019/02/26/marionet-botnet-browser-attacco-web/)[HelpNetSecurity](https://www.helpnetsecurity.com/2019/02/27/modern-browser-apis-can-be-abused-for-hijacking-device-resources/), [SensorsTechForum](https://sensorstechforum.com/marionet-attack-browser-apis/), [HackerCombat](https://hackercombat.com/marionet-lets-bad-codes-run-even-after-user-leaves-web-page/), [TechTarget](https://searchsecurity.techtarget.com/news/252458522/MarioNet-attack-exploits-HTML5-to-create-botnets), [gHacks](https://www.ghacks.net/2019/02/26/marionet-attack-lets-hackers-control-your-browser-even-after-you-leave-the-attack-page/), [SecurityWeek](https://www.securityweek.com/new-attack-runs-code-after-closing-browser-tab)
- - [Incognitus: Privacy-Preserving User Interests in Online Social Networks]()<br>
+ - [Incognitus: Privacy-Preserving User Interests in Online Social Networks](papers/IOSec_2018_paper_2.pdf)<br>
 Alexandros Kornilakis, <u>Panagiotis Papadopoulos</u>, Evangelos P. Markatos <br>
 In Proceedings of the International Workshop on Information and Operational Technology Security Systems (IOSec'19) co-located with the International Symposium on Research in Attacks, Intrusions and Defenses (RAID).
 
