@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Panagiotis (Panos) Papadopoulos
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am currently a Research Scientist at Telefonica Research. My research focuses on understanding the Web's threat landscape, sheding light in the digital ad ecosystem  and developing countermeasures and privacy-preserving techniques for better protecting users.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Before that, I was the Security Researcher of [Brave Software Inc](http://www.brave.com). and my role was to lead the security and fraud related research and development of the Brave Browser and Brave Ads.
 
-What else do you need?
+I received my B.Sc. (2011), M.Sc. (2014), and Ph.D. (2018) degrees in Computer Science from the University of Crete (Greece) while working as an Assistant Researcher in the [Distributed Computing Systems Lab](https://www.ics.forth.gr/discs/) at [FORTH](https://www.forth.gr/).
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+More information is available in my [resume](https://panpap.github.io/panpap_cv.pdf).
