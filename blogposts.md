@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Panagiotis (Panos) Papadopoulos
+title: Panos Papadopoulos
 subtitle: Security Researcher
 ---
 
