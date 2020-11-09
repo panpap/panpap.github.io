@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Panagiotis (Panos) Papadopoulos
+title: Panos Papadopoulos
 ---
 
 I am currently a Research Scientist at [Telefonica Research](www.tid.es). My research focuses on understanding the Web's threat landscape, sheding light in the digital ad ecosystem  and developing countermeasures and privacy-preserving techniques for better protecting users.
