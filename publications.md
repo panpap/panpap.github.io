@@ -57,13 +57,14 @@ Giannis Tzagarakis, <u>Panagiotis Papadopoulos</u>, Antonios A. Chariton, Elias 
 Antonios Chariton, Eirini Degkleri, <u>Panagiotis Papadopoulos</u>, Panagiotis Ilia, Evangelos P. Markatos, In proceedings of IEEE International Conference on Computer Communications (INFOCOM’17), Atlanta, Georgia, USA.
  - [The Long-Standing Privacy Debate: Mobile Websites Vs Mobile Apps](papers/p153-papadopoulos.pdf)
 Elias P. Papadopoulos, Michalis Diamantaris, <u>Panagiotis Papadopoulos</u>, Thanasis Petsas, Sotiris Ioannidis, Evangelos P Markatos, In proceedings of the 26th International World Wide Web Conference (WWW’17), 2017, Perth, Australia. (<b>Best Paper Honorable Mention</b>)
+
+***2016***
  - [Provable Network Activity for Protecting Users Against False Accusation](papers/panpapWISTP2016.pdf)
 <u>Panagiotis Papadopoulos</u>, Elias Athanasopoulos, Eleni Kosta, George Siganos, Angelos D. Keromytis and Evangelos P. Markatos, 
 In proceedings of the 10th International Conference on Information Security Theory and Practice (WISTP’16).
-
-***2016***
  - [DCSP: Performant Certificate Revocation a DNS-based approach](papers/a1-chariton.pdf)
 Antonios Chariton, Eirini Degkleri, <u>Panagiotis Papadopoulos</u>, Panagiotis Ilia, Evangelos P. Markatos, In proceedings of the 9th European Workshop on System Security (EuroSec’16). April 2016, London, UK.
+ - [Leveraging DNS for timely SSL Certificate Revocation](papers/degkleri_womencourage2016.pdf) Eirini Degkleri, Antonios A. Chariton, Panagiotis Ilia, <u>Panagiotis Papadopoulos</u>, Evangelos P. Markatos, In 3rd ACM-W Europe Celebration of Women in Computing (womENcourage 2016). Linz, Austria, September 2016. 
 
 ***2015***
  - [MAD: A Middleware Framework for Multi-Step Attack Detection](papers/07809529.pdf)
