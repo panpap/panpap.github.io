@@ -1,4 +1,11 @@
-Peer-reviewed Conference and Workshop papers
+---
+layout: page
+title: Panos Papadopoulos
+subtitle: Security Researcher
+---
+
+
+*Peer-reviewed Conference and Workshop papers*
 
 ---
 2020
