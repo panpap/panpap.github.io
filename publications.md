@@ -12,7 +12,7 @@ subtitle: Security Researcher
 Michalis Pachilakis, Antonios Chariton, <u>Panagiotis Papadopoulos</u>, Panagiotis Ilia, Eirini Degkleri, Evangelos P. Markatos <br> In proceedings of ACM Transactions on Internet Technology (TOIT’20)
  - [Stop tracking me bro! differential tracking of user demographics on hyper-partisan websites](papers/3366423.3380221.pdf)
 Pushkal Agarwal, Sagar Joglekar, <u>Panagiotis Papadopoulos</u>, Nishanth Sastry, Nicolas Kourtellis <br>
-In proceedings of the 29th International World Wide Web Conference (WWW’20), April 2020, Taiwan, Taipei.
+In proceedings of the 29th International World Wide Web Conference (WWW’20), April 2020, Taiwan, Taipei. <br>
 <b>Media Coverage:</b> [Wired](https://www.wired.com/story/right-left-news-site-ad-tracking/)
  - [Filter List Generation for Underserved Regions](papers/3366423.3380239.pdf)
 Alexander Sjosten, Peter Snyder, Antonio Pastor, <u>Panagiotis Papadopoulos</u>, Benjamin Livshits <br> In proceedings of the 29th International World Wide Web Conference (WWW’20), April 2020, Taiwan, Taipei.

@@ -14,9 +14,9 @@ author: "Panos Papadopoulos"
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "aboutme"
+#  Home: "aboutme"
   Publications: "publications"
-  Blogpost: "blogpost"
+  Blogpost: "blogposts"
 
 # --- Logo --- #
 
