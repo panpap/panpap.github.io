@@ -20,7 +20,7 @@ Proceedings of The Web Conference 2020 (WWW'20), 1479-1490
 A Sjösten, P Snyder, A Pastor, P Papadopoulos, B Livshits
 Proceedings of The Web Conference 2020 (WWW'20), 1682-1692
 
- - [Keeping out the Masses: Understanding the Popularity and Implications of Internet Paywalls]()
+ - [Keeping out the Masses: Understanding the Popularity and Implications of Internet Paywalls](papers/3366423.3380217.pdf)
 P Papadopoulos, P Snyder, D Athanasakis, B Livshits
 Proceedings of The Web Conference 2020 (WWW'20).
 
@@ -48,18 +48,18 @@ In Proceedings of the International Workshop on Information and Operational Tech
  - [Where's Wally?: How to Privately Discover your Friends on the Internet](papers/asiaCCS18_panpap.pdf)
 P Papadopoulos, AA Chariton, E Athanasopoulos, EP Markatos,
 Proceedings of the 2018 ACM Asia Conference onComputer and Communications Security (Asia CCS'18)
- - [Exclusive: How the (synced) Cookie Monster breached my encrypted VPN session]()
+ - [Exclusive: How the (synced) Cookie Monster breached my encrypted VPN session](papers/eurosec2018-exclusive.pdf)
 P Papadopoulos, N Kourtellis, EP Markatos
 Proceedings of the 11th European Workshop on Systems Security (EuroSec'18), 6
- - [Øpass: Zero-storage Password Management Based on Password Reminders]()
+ - [Øpass: Zero-storage Password Management Based on Password Reminders](papers/eurosec2018-0pass.pdf)
 G Tzagarakis, P Papadopoulos, AA Chariton, E Athanasopoulos, EP Markatos
 Proceedings of the 11th European Workshop on Systems Security (EuroSec'18), 2
- - [The cost of digital advertisement: Comparing user and advertiser views]()
+ - [The cost of digital advertisement: Comparing user and advertiser views](papers/www18_papadopoulos.pdf)
 P Papadopoulos, N Kourtellis, EP Markatos
 Proceedings of the 27th International Conference on World Wide Web (WWW'18)
 
 ***2017***
- - [If you are not paying for it, you are the product: How much do advertisers pay to reach you?]()
+ - [If you are not paying for it, you are the product: How much do advertisers pay to reach you?](papers/imc17-final193.pdf)
 P Papadopoulos, N Kourtellis, PR Rodriguez, N Laoutaris
 Proceedings of the 2017 Internet Measurement Conference (IMC'17), 142-156
  - [No Sugar but all the Taste! Memory Encryption without Architectural Support](papers/panpap-esorics17.pdf)
