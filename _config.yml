@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: "Panos Papadopoulos"
 
 # Your name to show in the footer
-author: Some Person
+author: "Panos Papadopoulos"
 
 # --- List of links in the navigation bar --- #
 
@@ -40,12 +40,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  github: panpap
+  twitter: panpap88
 #  patreon: DeanAttali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: https://www.linkedin.com/in/panagiotis-panos-papadopoulos-7aa80560/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -59,25 +58,19 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-
-# If you want to show a link to an RSS in the footer, add the site description here.
-# If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+   ORCID: https://orcid.org/0000-0002-1928-6534
+  google-scholar: https://scholar.google.com/citations?user=c0xCCh0AAAAJ
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
   linkedin: true
-  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+#url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
