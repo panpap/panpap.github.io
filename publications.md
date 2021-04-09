@@ -6,8 +6,16 @@ subtitle: Security Researcher
 
 **Peer-reviewed Conference and Workshop papers**
 
-***2020***
+***2021***
+- [ZKSENSE: a Privacy-Preserving Mechanism for Bot Detection in Mobile Devices](papers/)<br>
+Inigo Querejeta Azurmendi, <u>Panagiotis Papadopoulos</u>, Matteo Varvello, Jiexin Zhang, Antonio Nappa, Benjamin Livshits<br> In proceedings of the 21st Privacy Enhancing Technologies Symposium (PETS 2021), July 2021, The Internet. <br>
+- [User tracking in the post-cookie era: How websites bypass GDPR consent to track users](papers/) <br> 
+Emmanouil Papadogiannakis, <u>Panagiotis Papadopoulos</u>, Nicolas Kourtellis and Evangelos Markatos<br>, In proceedings of the 30th International World Wide Web Conference (WWW’21), April 2021, Ljubljana, Slovenia.<br>
+- [Towards Realistic and Reproducible Web Crawl Measurements](papers/) <br>
+Jordan Jueckstock, Shaown Sarker, Peter Snyder, Aidan Beggs, <u>Panagiotis Papadopoulos</u>, Matteo Varvello, Ben Livshits and Alexandros Kapravelos <br>
+In proceedings of the 30th International World Wide Web Conference (WWW’21), April 2021, Ljubljana, Slovenia. <br>
 
+***2020***
  - [Design and Implementation of a Compressed Certificate Status Protocol](papers/3392096.pdf) <br>
 Michalis Pachilakis, Antonios Chariton, <u>Panagiotis Papadopoulos</u>, Panagiotis Ilia, Eirini Degkleri, Evangelos P. Markatos <br> In proceedings of ACM Transactions on Internet Technology (TOIT’20)
  - [Stop tracking me bro! differential tracking of user demographics on hyper-partisan websites](papers/3366423.3380221.pdf) <br>
