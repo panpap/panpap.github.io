@@ -13,5 +13,3 @@ subtitle: Security Researcher
 - [Privacy Risks from Public Data Sources](https://arxiv.org/abs/1711.09260)<br> <u>Panagiotis Papadopoulos</u>, Zacharias Tzermias, Sotiris Ioannidis, Vassilis Prevelakis.
 - [WRIT: Web Requests Integrity and Attestation]()<br>, Giorgos Vasiliadis, Apostolis Karampelas, Alexander Shevtsov, Sotiris Ioannidis, <u>Panagiotis Papadopoulos</u>, Alexandros Kapravelos.
 - [ScrambleSuit: A Tool for Evading Malware Analysis Sandboxes using PoW-based Timing Side Channels]()<br>, Antonio Nappa, <u>Panagiotis Papadopoulos</u>, Matteo Varvello, Daniel Aceituno, Juan Tapiador, Andrea Lanzi.
-- [The Rise and Fall of Fake News sites: A Traffic Analysis]()<br>, Emmanouil Xalkiadakis, Alexandros Kornilakis,  <u>Panagiotis Papadopoulos</u>, Evangelos P. Markatos, Nicolas Kourtellis.
-
