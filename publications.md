@@ -4,7 +4,7 @@ title: Panos Papadopoulos
 subtitle: Security Researcher
 ---
 
-**Peer-reviewed Conference and Workshop papers**
+**Peer-reviewed Conference and Workshop papers:**
 
 ***2021***
 - [ZKSENSE: a Privacy-Preserving Mechanism for Bot Detection in Mobile Devices](papers/)<br>
