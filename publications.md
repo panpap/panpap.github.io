@@ -10,7 +10,7 @@ subtitle: Security Researcher
 - [ZKSENSE: a Privacy-Preserving Mechanism for Bot Detection in Mobile Devices](papers/)<br>
 Inigo Querejeta Azurmendi, <u>Panagiotis Papadopoulos</u>, Matteo Varvello, Jiexin Zhang, Antonio Nappa and Benjamin Livshits<br> In proceedings of the 21st Privacy Enhancing Technologies Symposium (PETS 2021), July 2021, The Internet. <br>
 <b>Media Coverage:</b> [Medium](https://medium.com/ai\%C2\%B3-theory-practice-business/human-or-bot-a-privacy-preserving-mechanism-for-bot-detection-in-mobile-devices-9b225a91769f)
-- [The Rise and Fall of Fake News sites: A Traffic Analysis]()<br> Emmanouil Xalkiadakis, Alexandros Kornilakis,  <u>Panagiotis Papadopoulos</u>, Evangelos P. Markatos and  Nicolas Kourtellis. <br>
+- [The Rise and Fall of Fake News sites: A Traffic Analysis]()<br> Manolis Xalkiadakis, Alexandros Kornilakis,  <u>Panagiotis Papadopoulos</u>, Evangelos P. Markatos and  Nicolas Kourtellis. <br>
 In proceedings of the 13th International ACM Conference on Web Science in 2021 (WebSci’21), June 2021, The Internet.<br>
 - [User tracking in the post-cookie era: How websites bypass GDPR consent to track users](papers/) <br> 
 Emmanouil Papadogiannakis, <u>Panagiotis Papadopoulos</u>, Nicolas Kourtellis and Evangelos Markatos<br> In proceedings of the 30th International World Wide Web Conference (WWW’21), April 2021, Ljubljana, Slovenia.<br>
