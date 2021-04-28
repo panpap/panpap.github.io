@@ -19,7 +19,7 @@ Jordan Jueckstock, Shaown Sarker, Peter Snyder, Aidan Beggs, <u>Panagiotis Papad
 In proceedings of the 30th International World Wide Web Conference (WWW’21), April 2021, Ljubljana, Slovenia. <br>
 - [VPN0: A Privacy-Preserving Decentralized Virtual Private Network](papers/)<br>
 Antonio Nappa, Matteo Varvello, <u>Panagiotis Papadopoulos</u>, Inigo Querejeta, Goncalo Pestana, Benjamin Livshits <br> In proceedings of IFIP Decentralising the Internet with IPFS and Filecoin (DI2F'21), June 2021, Aalto Finland. <br>
-<b>Media Coverage:</b> [Decrypt](https://decrypt.co/9937/brave-proposes-decentralized-crypto-enhanced-vpn)
+<b>Media Coverage:</b> [Decrypt](https://decrypt.co/9937/brave-proposes-decentralized-crypto-enhanced-vpn),
 [CryptoSlate](https://cryptoslate.com/brave-rd-team-debuts-privacy-preserving-distributed-vpn/)
 
 ***2020***
