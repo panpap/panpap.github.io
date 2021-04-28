@@ -17,6 +17,8 @@ Emmanouil Papadogiannakis, <u>Panagiotis Papadopoulos</u>, Nicolas Kourtellis an
 - [Towards Realistic and Reproducible Web Crawl Measurements](papers/) <br>
 Jordan Jueckstock, Shaown Sarker, Peter Snyder, Aidan Beggs, <u>Panagiotis Papadopoulos</u>, Matteo Varvello, Ben Livshits and Alexandros Kapravelos <br>
 In proceedings of the 30th International World Wide Web Conference (WWW’21), April 2021, Ljubljana, Slovenia. <br>
+- [VPN0: A Privacy-Preserving Decentralized Virtual Private Network](papers/)<br>
+Antonio Nappa, Matteo Varvello, <u>Panagiotis Papadopoulos</u>, Inigo Querejeta, Goncalo Pestana, Benjamin Livshits <br> In proceedings of IFIP Decentralising the Internet with IPFS and Filecoin (DI2F'21), June 2021, Aalto Finland. <br>
 
 ***2020***
  - [Design and Implementation of a Compressed Certificate Status Protocol](papers/3392096.pdf) <br>
