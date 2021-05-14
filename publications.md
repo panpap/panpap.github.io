@@ -12,7 +12,7 @@ Inigo Querejeta Azurmendi, <u>Panagiotis Papadopoulos</u>, Matteo Varvello, Jiex
 <b>Media Coverage:</b> [Medium](https://medium.com/ai\%C2\%B3-theory-practice-business/human-or-bot-a-privacy-preserving-mechanism-for-bot-detection-in-mobile-devices-9b225a91769f)
 - [The Rise and Fall of Fake News sites: A Traffic Analysis]()<br> Manolis Xalkiadakis, Alexandros Kornilakis,  <u>Panagiotis Papadopoulos</u>, Evangelos P. Markatos and  Nicolas Kourtellis. <br>
 In proceedings of the 13th International ACM Conference on Web Science in 2021 (WebSci’21), June 2021, The Internet.<br>
-- [User tracking in the post-cookie era: How websites bypass GDPR consent to track users](papers/) <br> 
+- [User tracking in the post-cookie era: How websites bypass GDPR consent to track users](papers/www21-271.pdf) <br> 
 Emmanouil Papadogiannakis, <u>Panagiotis Papadopoulos</u>, Nicolas Kourtellis and Evangelos Markatos<br> In proceedings of the 30th International World Wide Web Conference (WWW’21), April 2021, Ljubljana, Slovenia.<br>
 - [Towards Realistic and Reproducible Web Crawl Measurements](papers/) <br>
 Jordan Jueckstock, Shaown Sarker, Peter Snyder, Aidan Beggs, <u>Panagiotis Papadopoulos</u>, Matteo Varvello, Ben Livshits and Alexandros Kapravelos <br>
