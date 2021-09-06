@@ -25,8 +25,15 @@ console.log("Screen Height "+height);
 console.log("Screen Color Depth "+color_depth);
 console.log("Screen pixelDepth "+bitspp);
 
+</script>
+</head>
+<body>
+	<script type="text/javascript">var dom_implemented = navigator.hardwareConcurrency;
+</script>
 
-var running = false;
+<h3> Hello World</h3>
+<script type="text/javascript">
+	var running = false;
 function run() {
 	var start;
 
@@ -52,9 +59,10 @@ function run() {
 
 	}, options);
 }
+if (dom_implemented || navigator.mimeTypes["application/x-pnacl"]) {
+	run();
+}
+</script>
 
 </script>
-</head>
-<body onload="run()">
-<h3> Hello World</h3>
 </body>
