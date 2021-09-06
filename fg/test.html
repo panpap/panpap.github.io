@@ -19,15 +19,42 @@ var bitspp = screen.pixelDepth;
 
 console.log("WEBGL debug Vendor "+vendor);
 console.log("WEBGL debug Renderer "+renderer);
-console.log("Ram "+ram);
+console.log("Ram "+ram+" GIB");
 console.log("Screen Width "+width);
 console.log("Screen Height "+height);
 console.log("Screen Color Depth "+color_depth);
 console.log("Screen pixelDepth "+bitspp);
 
 
+var running = false;
+function run() {
+	var start;
+
+	if (running) return;
+
+	running = true;
+	start = Date.now();
+
+	var options = {
+		use_cache: false
+	};
+
+	navigator.getHardwareConcurrency(function() {
+
+		running = false;
+
+		var seconds = (Date.now() - start) / 1000;
+		var answer = navigator.hardwareConcurrency;
+
+		console.log("Estimated " +
+			(answer === 1 ? "1 core" : answer + " cores") +
+			" - Took " + seconds + " seconds.");
+
+	}, options);
+}
+
 </script>
 </head>
-<body>
+<body onload="run()">
 <h3> Hello World</h3>
 </body>
