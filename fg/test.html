@@ -1,8 +1,9 @@
 <head>
 <title>Test</title>
 <script src="./core_est/core-estimator.js"></script>
-<script>
+<style type="text/css" src="./main.css"></style>
 
+<script>
 var canvas = document.createElement('canvas');
 var gl = canvas.getContext('webgl');
 
@@ -24,45 +25,29 @@ console.log("Screen Width "+width);
 console.log("Screen Height "+height);
 console.log("Screen Color Depth "+color_depth);
 console.log("Screen pixelDepth "+bitspp);
+console.log(window.navigator.hardwareConcurrency);
+
+if (!navigator.mediaDevices || !navigator.mediaDevices.enumerateDevices) {
+  console.log("enumerateDevices() not supported.");
+}
+
+// List cameras and microphones.
+
+navigator.mediaDevices.enumerateDevices()
+.then(function(devices) {
+  devices.forEach(function(device) {
+    console.log(device.kind + ": " + device.label +
+                " id = " + device.deviceId);
+  });
+})
+.catch(function(err) {
+  console.log(err.name + ": " + err.message);
+});
+
 
 </script>
 </head>
 <body>
-	<script type="text/javascript">var dom_implemented = navigator.hardwareConcurrency;
-</script>
 
-<h3> Hello World</h3>
-<script type="text/javascript">
-	var running = false;
-function run() {
-	var start;
-
-	if (running) return;
-
-	running = true;
-	start = Date.now();
-
-	var options = {
-		use_cache: false
-	};
-
-	navigator.getHardwareConcurrency(function() {
-
-		running = false;
-
-		var seconds = (Date.now() - start) / 1000;
-		var answer = navigator.hardwareConcurrency;
-
-		console.log("Estimated " +
-			(answer === 1 ? "1 core" : answer + " cores") +
-			" - Took " + seconds + " seconds.");
-
-	}, options);
-}
-if (dom_implemented || navigator.mimeTypes["application/x-pnacl"]) {
-	run();
-}
-</script>
-
-</script>
 </body>
+</html>
