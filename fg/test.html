@@ -1,0 +1,33 @@
+<head>
+<title>Test</title>
+<script src="./core_est/core-estimator.js"></script>
+<script>
+
+var canvas = document.createElement('canvas');
+var gl = canvas.getContext('webgl');
+
+var debugInfo = gl.getExtension('WEBGL_debug_renderer_info');
+var vendor = gl.getParameter(debugInfo.UNMASKED_VENDOR_WEBGL);
+var renderer = gl.getParameter(debugInfo.UNMASKED_RENDERER_WEBGL);
+
+var ram = navigator.deviceMemory;
+
+var width = screen.width;
+var height = screen.height;
+var color_depth = screen.colorDepth;
+var bitspp = screen.pixelDepth;
+
+console.log("WEBGL debug Vendor "+vendor);
+console.log("WEBGL debug Renderer "+renderer);
+console.log("Ram "+ram);
+console.log("Screen Width "+width);
+console.log("Screen Height "+height);
+console.log("Screen Color Depth "+color_depth);
+console.log("Screen pixelDepth "+bitspp);
+
+
+</script>
+</head>
+<body>
+<h3> Hello World</h3>
+</body>
