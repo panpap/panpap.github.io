@@ -7,7 +7,8 @@ subtitle: Security Researcher
 **Peer-reviewed Conference and Workshop papers:**
 
 ***2021***
-- [PoW-HOW: An enduring timing side-channel to evade online malware sandboxes](papers/)<br> Antonio Nappa, <u>Panagiotis Papadopoulos</u>, Matteo Varvello, Daniel Aceituno Gomez, Juan Tapiador, Andrea Lanzi <br> In proceedings of 26th European Symposium on Research in Computer Security (ESORICS'21), 2021, The Internet. <br>
+- [How Much Are You Worth? Analysing the Ad Pricing Dynamics based on the User Demographics](papers/)<br> Michalis Pachilakis, Panagiotis Papadopoulos, Nikolaos Laoutaris, Evangelos P. Markatos, Nicolas Kourtellis<br> In proceedings of ACM SIGMETRICS / IFIP Performance (SIGMETRICS'22), 2022, Mumbai, India. <br>
+- [PoW-HOW: An enduring timing side-channel to evade online malware sandboxes](papers/2109.02979.pdf)<br> Antonio Nappa, <u>Panagiotis Papadopoulos</u>, Matteo Varvello, Daniel Aceituno Gomez, Juan Tapiador, Andrea Lanzi. <br> In proceedings of 26th European Symposium on Research in Computer Security (ESORICS'21), 2021, The Internet. <br>
 - [ZKSENSE: a Privacy-Preserving Mechanism for Bot Detection in Mobile Devices](papers/popets-2021-0058.pdf)<br>
 Inigo Querejeta Azurmendi, <u>Panagiotis Papadopoulos</u>, Matteo Varvello, Jiexin Zhang, Antonio Nappa and Benjamin Livshits<br> In proceedings of the 21st Privacy Enhancing Technologies Symposium (PETS 2021), July 2021, The Internet. <br>
 <b>Media Coverage:</b> [Medium](https://medium.com/ai\%C2\%B3-theory-practice-business/human-or-bot-a-privacy-preserving-mechanism-for-bot-detection-in-mobile-devices-9b225a91769f)
