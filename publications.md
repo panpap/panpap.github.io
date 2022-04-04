@@ -7,11 +7,11 @@ subtitle: Security Researcher
 **Peer-reviewed Conference and Workshop papers:**
 
 ***2022***
-- [How Much Are You Worth? Analysing the Ad Pricing Dynamics based on the User Demographics](papers/1907.10331.pdf)<br> Michalis Pachilakis, <u>Panagiotis Papadopoulos</u>, Nikolaos Laoutaris, Evangelos P. Markatos, Nicolas Kourtellis<br> In proceedings of ACM SIGMETRICS / IFIP Performance (SIGMETRICS'22), 2022, Mumbai, India. <br>
+- [YourAdvalue: Measuring Advertising Price Dynamics without Bankrupting User Privacy](papers/1907.10331.pdf)<br> Michalis Pachilakis, <u>Panagiotis Papadopoulos</u>, Nikolaos Laoutaris, Evangelos P. Markatos, Nicolas Kourtellis<br> In proceedings of ACM SIGMETRICS / IFIP Performance (SIGMETRICS'22), 2022, Mumbai, India. <br>
 - [Leveraging Google's Publisher-specific IDs to Detect Website Administration](papers/2202.05074.pdf)<br> Emmanouil Papadogiannakis, <u>Panagiotis Papadopoulos</u>, Evangelos P Markatos, Nicolas Kourtellis<br> In proceedings of the ACM
 Web Conference (WWW ’22), 2022, Lyon, France.<br>
 - [OUTOPIA: Private User Discovery on the Internet](papers/OUTOPIA.pdf)<br><u>Panagiotis Papadopoulos</u>, Michalis Pachilakis, Antonios Chariton, Evangelos P. Markatos<br> In proceedings of the 15th European Workshop on Systems Security (EuroSec'22), 2022, Rennes, France. <br>
-- [Measuring the (Over) use of Service Workers for In-Page Push Advertising Purposes](papers/2110.11241.pdf)<br>  Giorgos Pantelakis, <u>Panagiotis Papadopoulos</u>, Nicolas Kourtellis, Evangelos P. Markatos<br> In proceedings of International Conference on Passive and Active Network Measurement (PAM'22), 2022, Amsterdam, The Netherlands. <br>
+- [Measuring the (Over) use of Service Workers for In-Page Push Advertising Purposes](papers/2110.11241.pdf)<br>  Giorgos Pantelakis, <u>Panagiotis Papadopoulos</u>, Nicolas Kourtellis, Evangelos P. Markatos<br> In proceedings of International Conference on Passive and Active Network Measurement (PAM'22), 2022, Amsterdam, The Netherlands.
 
 ***2021***
 - [PoW-HOW: An enduring timing side-channel to evade online malware sandboxes](papers/2109.02979.pdf)<br> Antonio Nappa, <u>Panagiotis Papadopoulos</u>, Matteo Varvello, Daniel Aceituno Gomez, Juan Tapiador, Andrea Lanzi. <br> In proceedings of 26th European Symposium on Research in Computer Security (ESORICS'21), 2021, The Internet. <br>
