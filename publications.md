@@ -12,6 +12,7 @@ subtitle: Security Researcher
 Web Conference (WWW ’22), 2022, Lyon, France.<br>
 - [OUTOPIA: Private User Discovery on the Internet](papers/OUTOPIA.pdf)<br><u>Panagiotis Papadopoulos</u>, Michalis Pachilakis, Antonios Chariton, Evangelos P. Markatos<br> In proceedings of the 15th European Workshop on Systems Security (EuroSec'22), 2022, Rennes, France. <br>
 - [Measuring the (Over) use of Service Workers for In-Page Push Advertising Purposes](papers/2110.11241.pdf)<br>  Giorgos Pantelakis, <u>Panagiotis Papadopoulos</u>, Nicolas Kourtellis, Evangelos P. Markatos<br> In proceedings of International Conference on Passive and Active Network Measurement (PAM'22), 2022, Amsterdam, The Netherlands. <br>
+
 ***2021***
 - [PoW-HOW: An enduring timing side-channel to evade online malware sandboxes](papers/2109.02979.pdf)<br> Antonio Nappa, <u>Panagiotis Papadopoulos</u>, Matteo Varvello, Daniel Aceituno Gomez, Juan Tapiador, Andrea Lanzi. <br> In proceedings of 26th European Symposium on Research in Computer Security (ESORICS'21), 2021, The Internet. <br>
 - [ZKSENSE: a Privacy-Preserving Mechanism for Bot Detection in Mobile Devices](papers/popets-2021-0058.pdf)<br>
