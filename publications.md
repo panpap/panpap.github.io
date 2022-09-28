@@ -101,7 +101,7 @@ In proceedings of the 4th IEEE International Workshop on Building Analysis Datas
  - [Acazoo: A distributed key-value store based on replicated lsm-trees](papers/srds14.pdf)<br>
 Panagiotis Garefalakis, <u>Panagiotis Papadopoulos</u>, Kostas Magoutis, In Proceedings of 33rd IEEE Symposium on Reliable Distributed Systems (SRDS’14). October 2014, Nara, Japan. (<b>Best Student Paper Award</b>)
  - [Securing Legacy Code with the TRACER Platform](papers/PCI_14.pdf)<br>
-Kostantinos Stroggylos, Dimitris Mitropoulos, Zacharias Tzermias, <u>Panagiotis Papadopoulos</u>, Fotios Rafailidis, Diomidis Spinellis, Sotiris Ioannidis, Panagiotis Katsaros, Proceedings of the 18th Panhellenic Conference on Informatics (PCI'14), 1-6
+Kostantinos Stroggylos, Dimitris Mitropoulos, Zacharias Tzermias, <u>Panagiotis Papadopoulos</u>, Fotios Rafailidis, Diomidis Spinellis, Sotiris Ioannidis, Panagiotis Katsaros, Proceedings of the 18th Panhellenic Conference on Informatics (PCI'14).
  - [The Vulnerability Dataset of a Large Software Ecosystem](papers/badgers2014.pdf)<br>
 Dimitris Mitropoulos, Georgios Gousios, <u>Panagiotis Papadopoulos</u>, Vassilios Karakoidas, Panagiotis Louridas, Diomidis Spinellis Third International Workshop on Building Analysis Datasets and Gathering Experience Returns for Security (BADGERS'14) co-located with the 18th International Symposium on Research in Attacks, Intrusions and Defenses (RAID), Wroclaw, Poland.
  - [TRACER: A Platform for Securing Legacy Code](papers/978-3-319-08593-7_20.pdf)<br>
