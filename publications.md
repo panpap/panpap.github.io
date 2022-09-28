@@ -14,7 +14,7 @@ Web Conference (WWW ’22), 2022, Lyon, France.<br>
 - [YouTubers Not madeForKids: Detecting Channels Sharing Inappropriate Videos Targeting Children](papers/3501247.3531556.pdf)
 M Gkolemi, P Papadopoulos, E Markatos, N Kourtellis <br> In proceedings of the 14th ACM Web Science Conference 2022 <br>
 - [Scramblesuit: An effective timing side-channels framework for malware sandbox evasion](https://content.iospress.com/articles/journal-of-computer-security/jcs220005)<br> Antonio Nappa, Aaron Úbeda-Portugués, <u> Panagiotis Papadopoulos</u>, Matteo Varvello, Juan Tapiador, Andrea Lanzi, In proceedings of Journal of Computer Security. <br>
-- [OUTOPIA: Private User Discovery on the Internet](papers/OUTOPIA.pdf)<br><u>Panagiotis Papadopoulos</u>, Michalis Pachilakis, Antonios Chariton, Evangelos P. Markatos<br> In proceedings of the 15th European Workshop on Systems Security (EuroSec'22), 2022, Rennes, France. <br>
+- [OUTOPIA: Private User Discovery on the Internet](papers/OUTOPIA.pdf)<br><u>Panagiotis Papadopoulos</u>, Michalis Pachilakis, Antonios Chariton, Evangelos P. Markatos, In proceedings of the 15th European Workshop on Systems Security (EuroSec'22), 2022, Rennes, France. <br>
 - [Measuring the (Over) use of Service Workers for In-Page Push Advertising Purposes](papers/2110.11241.pdf)<br>  Giorgos Pantelakis, <u>Panagiotis Papadopoulos</u>, Nicolas Kourtellis, Evangelos P. Markatos, In proceedings of International Conference on Passive and Active Network Measurement (PAM'22), 2022, Amsterdam, The Netherlands.
 
 ***2021***
