@@ -105,7 +105,7 @@ Kostantinos Stroggylos, Dimitris Mitropoulos, Zacharias Tzermias, <u>Panagiotis 
  - [The Vulnerability Dataset of a Large Software Ecosystem](papers/badgers2014.pdf)<br>
 Dimitris Mitropoulos, Georgios Gousios, <u>Panagiotis Papadopoulos</u>, Vassilios Karakoidas, Panagiotis Louridas, Diomidis Spinellis Third International Workshop on Building Analysis Datasets and Gathering Experience Returns for Security (BADGERS'14) co-located with the 18th International Symposium on Research in Attacks, Intrusions and Defenses (RAID), Wroclaw, Poland.
  - [TRACER: A Platform for Securing Legacy Code](papers/978-3-319-08593-7_20.pdf)<br>
-Kostantinos Stroggylos, Dimitris Mitropoulos, Zacharias Tzermias, <u>Panagiotis Papadopoulos</u>, Fotios Rafailidis, Diomidis Spinellis, Sotiris Ioannidis, Panagiotis Katsaros, In proceedings of the International Conference on Trust and Trustworthy Computing (Trust'14), 218-219
+Kostantinos Stroggylos, Dimitris Mitropoulos, Zacharias Tzermias, <u>Panagiotis Papadopoulos</u>, Fotios Rafailidis, Diomidis Spinellis, Sotiris Ioannidis, Panagiotis Katsaros, In proceedings of the International Conference on Trust and Trustworthy Computing (Trust'14)
 
 ***2013***
  - [k-subscription: privacy-preserving microblogging browsing through obfuscation](papers/ACSAC13.pdf)<br>
