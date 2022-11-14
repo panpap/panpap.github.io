@@ -1,0 +1,149 @@
+<html>
+  <head>
+    <script>
+      const getID = id => document.getElementById(id),
+        args = new URLSearchParams(location.search),
+        utils = {
+          buf2hex: buffer => Array.prototype.map.call(new Uint8Array(buffer), x => ("00" + x.toString(16)).slice(-2)).join(""),
+          hash: buffer => crypto.subtle.digest("SHA-256", buffer),
+          hashes: {
+            red: "bf9da7959d914298f9ce9e41a480fd66f76fac5c6f5e0a9b5a99b18cfc6fd997"
+          }
+        };
+
+      function isFingerPrintSpoofedByPersistentNoise() {
+        const c = document.createElement("canvas");
+        return c.width = 256, c.height = 24, new Promise((resolve, reject) => {
+          webgl.draw.rectangle(c);
+          const container = document.getElementById("red-solid-box");
+          "true" !== args.get("print") && container.classList.add("collapse"), container.appendChild(c), window.setTimeout((function() {
+            var gl = c.getContext("webgl", {
+                preserveDrawingBuffer: !0
+              }),
+              buffer = new Uint8Array(gl.drawingBufferWidth * gl.drawingBufferHeight * 4);
+            gl.readPixels(0, 0, gl.drawingBufferWidth, gl.drawingBufferHeight, gl.RGBA, gl.UNSIGNED_BYTE, buffer), window.setTimeout((function() {
+              utils.hash(buffer).then(utils.buf2hex).then(resolve, reject)
+            }), 500)
+          }), 500)
+        })
+      }
+
+      function getBrowserFingerPrint(method = "binary", loc) {
+        const c = document.createElement("canvas");
+        return c.width = 512, c.height = 512, new Promise((resolve, reject) => {
+          webgl.draw.cube(c);
+          const container = document.getElementById("random-image-with-color-mixing-" + loc);
+          "true" !== args.get("print") && container.classList.add("collapse"), container.appendChild(c), window.setTimeout((function() {
+            var gl = c.getContext("webgl", {
+                preserveDrawingBuffer: !0
+              }),
+              buffer = new Uint8Array(gl.drawingBufferWidth * gl.drawingBufferHeight * 4);
+            gl.readPixels(0, 0, gl.drawingBufferWidth, gl.drawingBufferHeight, gl.RGBA, gl.UNSIGNED_BYTE, buffer), window.setTimeout((function() {
+              utils.hash(buffer).then(utils.buf2hex).then(resolve, reject)
+            }), 500)
+          }), 500)
+        })
+      }
+      const results = [];
+
+      function verdict() {
+        2 === results.length && (getID("fp_spoofed").textContent = !1 !== results[0] || !1 !== results[1])
+      }
+      isFingerPrintSpoofedByPersistentNoise().then(hash => {
+        getID("fp_fixed_red").textContent = hash, getID("fp_spoofed_persist").textContent = hash !== utils.hashes.red, results.push(hash !== utils.hashes.red), verdict()
+      }), Promise.all([getBrowserFingerPrint("png", "a"), new Promise((resolve, reject) => {
+        window.addEventListener("load", () => {
+          getBrowserFingerPrint("png", "b").then(resolve, reject)
+        })
+      })]).then(([h1, h2]) => {
+        getID("fp_spoofed_random_before").textContent = h1, getID("fp_spoofed_random_after").textContent = h2, getID("fp_spoofed_random").textContent = h1 !== h2, results.push(h1 !== h2), verdict()
+      }); {
+        const c = document.createElement("canvas");
+        getID("experimental_api").textContent = !(!c.getContext || !c.getContext("experimental-webgl")), getID("read-pixels").textContent = !(!c.getContext || !c.getContext("webgl").readPixels), getID("basic_support").textContent = !(!c.getContext || !c.getContext("webgl"))
+      }
+      window.addEventListener("load", () => document.body.classList.add("ready"))
+    </script>
+  </head>
+  <body>
+    <h1>hello</h1>
+	<script>
+const canvas = document.createElement("canvas");
+const gl = canvas.getContext('webgl');
+
+const debugInfo = gl.getExtension('WEBGL_debug_renderer_info');
+const vendor = gl.getParameter(debugInfo.UNMASKED_VENDOR_WEBGL);
+const renderer = gl.getParameter(debugInfo.UNMASKED_RENDERER_WEBGL);
+
+console.log(vendor);
+console.log(renderer);
+	</script>
+    <table id="fingerprint">
+      <colgroup>
+        <col>
+        <col>
+      </colgroup>
+      <tbody>
+        <tr>
+          <td>
+            <h2>Fingerprint Spoofed</h2>
+          </td>
+        </tr>
+        <tr>
+          <td>Is browser webgl fingerprint spoofed</td>
+          <td id="fp_spoofed">-</td>
+        </tr>
+        <tr>
+          <td>
+            <h2>WebGL Support in Your Browser</h2>
+          </td>
+        </tr>
+        <tr>
+          <td>WebGL (basic support)</td>
+          <td id="basic_support">-</td>
+        </tr>
+        <tr>
+          <td>Experimental API for WebGL</td>
+          <td id="experimental_api">-</td>
+        </tr>
+        <tr>
+          <td>WebGL readPixels</td>
+          <td id="read-pixels">-</td>
+        </tr>
+        <tr>
+          <td colspan="2">
+            <h2>Fingerprint Results</h2>
+          </td>
+        </tr>
+        <tr>
+          <td>Fingerprint ID <br>Method: red solid box <div id="red-solid-box" class="collapse">
+              <canvas width="256" height="24"></canvas>
+            </div>
+          </td>
+          <td id="fp_fixed_red">de676bae28a480011d3d012db14bef539324e62a841a9627863c689bea168af3</td>
+        </tr>
+        <tr>
+          <td>Is fingerprint spoofed by persistent noise</td>
+          <td id="fp_spoofed_persist">-</td>
+        </tr>
+        <tr>
+          <td>Fingerprint ID <br>When: before DOM load <br>Method: random image with color mixing <div id="random-image-with-color-mixing-a" class="collapse">
+              <canvas width="512" height="512"></canvas>
+            </div>
+          </td>
+          <td id="fp_spoofed_random_before">30e14955ebf1352266dc2ff8067e68104607e750abb9d3b36582b8af909fcb58</td>
+        </tr>
+        <tr>
+          <td>Fingerprint ID <br>When: after DOM load <br>Method: random image with color mixing <div id="random-image-with-color-mixing-b" class="collapse">
+              <canvas width="512" height="512"></canvas>
+            </div>
+          </td>
+          <td id="fp_spoofed_random_after">30e14955ebf1352266dc2ff8067e68104607e750abb9d3b36582b8af909fcb58</td>
+        </tr>
+        <tr>
+          <td>Is fingerprint spoofed by random noise</td>
+          <td id="fp_spoofed_random">-</td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
