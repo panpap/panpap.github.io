@@ -146,30 +146,8 @@ console.log(renderer);
       </colgroup>
       <tbody>
         <tr>
-          <td>
-            <h2>Fingerprint Spoofed</h2>
-          </td>
-        </tr>
-        <tr>
           <td>Is browser webgl fingerprint spoofed</td>
           <td id="fp_spoofed">-</td>
-        </tr>
-        <tr>
-          <td>
-            <h2>WebGL Support in Your Browser</h2>
-          </td>
-        </tr>
-        <tr>
-          <td>WebGL (basic support)</td>
-          <td id="basic_support">-</td>
-        </tr>
-        <tr>
-          <td>Experimental API for WebGL</td>
-          <td id="experimental_api">-</td>
-        </tr>
-        <tr>
-          <td>WebGL readPixels</td>
-          <td id="read-pixels">-</td>
         </tr>
         <tr>
           <td colspan="2">
@@ -265,10 +243,11 @@ console.log(renderer);
         })
       })]).then(([h1, h2]) => {
         getID("fp_spoofed_random_before").textContent = h1, getID("fp_spoofed_random_after").textContent = h2, getID("fp_spoofed_random").textContent = h1 !== h2, results.push(h1 !== h2), verdict()
-      }); {
-        const c = document.createElement("canvas");
-        getID("experimental_api").textContent = !(!c.getContext || !c.getContext("experimental-webgl")), getID("read-pixels").textContent = !(!c.getContext || !c.getContext("webgl").readPixels), getID("basic_support").textContent = !(!c.getContext || !c.getContext("webgl"))
-      }
+      }); //{
+        //const c = document.createElement("canvas");
+        //getID("experimental_api").textContent = !(!c.getContext || !c.getContext("experimental-webgl")), getID("read-pixels").textContent = !(!c.getContext || !c.getContext("webgl").readPixels), getID("basic_support").textContent = !(!c.getContext || !c.getContext("webgl"))
+      //}
       window.addEventListener("load", () => document.body.classList.add("ready"))
     </script>
+
 </body></html>
